@@ -1,1 +1,1 @@
-print("salom")
+print("Planshet termuxida yozilgan kodlar")
